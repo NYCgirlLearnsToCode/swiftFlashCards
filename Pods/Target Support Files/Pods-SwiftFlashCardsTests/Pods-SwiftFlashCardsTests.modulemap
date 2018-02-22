@@ -1,0 +1,6 @@
+framework module Pods_SwiftFlashCardsTests {
+  umbrella header "Pods-SwiftFlashCardsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
